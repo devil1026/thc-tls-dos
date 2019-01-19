@@ -20,3 +20,4 @@ Yours sincerly,
 The Hackers Choice
 http://www.thc.org
 
+更改之后的可以绕过SSL－Renegtiation 和 SSL-Accelerator 策略，因为有些原因暂不更新此版本源码，需要请联系说明用途。
